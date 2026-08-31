@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Warmly Player</string>
+    <string name="all_media">Все медиа</string>
+    <string name="favorites">Избранное</string>
+    <string name="audio">Аудио</string>
+    <string name="video">Видео</string>
+    <string name="repeat_mode_off">Повтор выкл</string>
+    <string name="repeat_mode_one">Повтор 1</string>
+    <string name="repeat_mode_all">Повтор все</string>
+    <string name="no_media_found">Медиа файлы не найдены</string>
+    <string name="permission_required">Требуется разрешение для доступа к медиа файлам</string>
+    <string name="grant_permission">Предоставить разрешение</string>
+</resources>
